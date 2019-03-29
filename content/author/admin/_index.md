@@ -23,9 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Apache Spark",
+  "Spark SQL",
+  "Hadoop"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -35,22 +35,22 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "Yaodong Wang"
-  institution = "MSc Student in CS"
-  year = 2018
+  institution = "MSc Student in Computer Science"
+#  year = 2018
 
 [[education.courses]]
   course = "Longzhi Liu"
-  institution = "MSc Student in CS"
+  institution = "MSc Student in Computer Science"
   year = 2018
 
 [[education.courses]]
   course = "Fan Zhang"
-  institution = "MSc Student in CS"
+  institution = "MSc Student in Computer Science"
   year = 2018
 
 [[education.courses]]
   course = "Jiaquan Mai"
-  institution = "MSc Student in CS"
+  institution = "MSc Student in Computer Science"
   year = 2018
 
 
