@@ -81,5 +81,4 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
-This project is aimed at helping people suffering from expression selecting phobia by providing them with suitable emoji expression of their texts(sentences). It includes the process of lexical analysis, syntactic analysis and semantic analysis. The model training process will be implemented in Google BERT model based on TensorFlow and several Twitter and Amazon datasets will be used to train the model. We will provide a public API for other developer to use and we also design a web UI for better visualization.
-test
+Some popular online course websites, such as Coursera and Udacity, is helping more and more people to access high quality education resource covering different subjects in an easier way. It is meaningful for us to analyse user behaviours from these websites. Now we will analyse the user behaviours on an online education website focused on programming techniques. In our project, after data cleaning and analysis of IP address, Spark SQL based on 8 VMs with Hadoop Yarn enabled, will be used to process the log data collected from the website. At the end, we shall figure out the underlying technical trend in factory and the most popular courses, which would be beneficial for further recommendation strategy.
