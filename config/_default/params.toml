@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "test@example.org"
 #phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+#address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 address = "P3-02, Graduate House, Depart. of Computer Science, The University of Hong Kong"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -87,7 +87,7 @@ address = "P3-02, Graduate House, Depart. of Computer Science, The University of
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1 
+map = 0 
 map_api_key = ""
 latitude = "22.17"
 longitude = "114.8"
