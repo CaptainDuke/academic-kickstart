@@ -58,15 +58,15 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+#[[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/GeorgeCushen"
 
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+#[[social]]
+#  icon = "google-scholar"
+#  icon_pack = "ai"
+#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
@@ -75,10 +75,10 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"
 
 +++
 Some popular online course websites, such as Coursera and Udacity, is helping more and more people to access high quality education resource covering different subjects in an easier way. It is meaningful for us to analyse user behaviours from these websites. Now we will analyse the user behaviours on an online education website focused on programming techniques. In our project, after data cleaning and analysis of IP address, Spark SQL based on 8 VMs with Hadoop Yarn enabled, will be used to process the log data collected from the website. At the end, we shall figure out the underlying technical trend in factory and the most popular courses, which would be beneficial for further recommendation strategy.
