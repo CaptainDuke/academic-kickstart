@@ -82,3 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 This project is aimed at helping people suffering from expression selecting phobia by providing them with suitable emoji expression of their texts(sentences). It includes the process of lexical analysis, syntactic analysis and semantic analysis. The model training process will be implemented in Google BERT model based on TensorFlow and several Twitter and Amazon datasets will be used to train the model. We will provide a public API for other developer to use and we also design a web UI for better visualization.
+test
