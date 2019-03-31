@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Group Project"
+name = "User Behaviors Analysis Using Spark-SQL"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,17 +9,17 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Group Two of COMP7305"
+role = "COMP7305 Term Project"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The University of Hong Kong", url = "" } ]
+organizations = [ { name = "Group Two", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "captwang@connect.hku.hk"
 
 # List (academic) interests or hobbies
 interests = [
