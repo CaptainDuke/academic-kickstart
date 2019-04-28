@@ -19,8 +19,7 @@ date_format = "Jan 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-#  organization = "Coursera"
-#  organization_url = "https://www.coursera.org"
+
   title = "Project Proposal Meeting"
   url = ""
   certificate_url = "https://docs.google.com/document/d/1YuafAA9UC_Taby6Okavb4Au80QnqHi0ZsC99AzX2z2U/edit"
@@ -87,6 +86,47 @@ cid=0&timestamp=1478707261865&uid=2871142&marking=androidbanner&secrect=a6e8e147
   description = """
   We established Spark and Hadoop on our 8-VMs cluster, and successfully test Logistic Regression on it. In the future, we will deploy our project based on this 8-VMs cluster platform.
 
+  """
+
+
+
+[[item]]
+  title = "Crawling Website Information"
+  url = ""
+  date_start = "2019-04-08"
+  description = """
+
+  **Main Progress:**
+
+- Finish crawling website information
+- Finish the combination with crawled data and cleaned data
+- Successfully run a small dataset on our cluster
+
+ **Pitched project ideas**
+
+- ZHANG Fan, WANG Yaodong: Implement all data analysis and statistics with the whole 5GB dataset
+- LIU Longzhi: Problem solving in inserting data to MySQL, as well as data visualization
+- MAI Jiaquan: Install other necessary toolkits, such as MySQL
+- All members: Analysis the experiment result and design more experiments to improve the performance, such as parameter tuning
+  """
+
+[[item]]
+  title = "Deployed on Yarn"
+  url = ""
+  date_start = "2019-04-11"
+  description = """
+
+  **Main Progress:**
+
+- Deploy Spark on Yarn
+- Modify Xen/Spark Configuration
+
+ **Pitched project ideas**
+
+- WANG Yaodong, ZHANG Fan: Implement all the scala code.
+- LIU Longzhi: Update Xen/Spark reconfiguration to improve VMs performance
+- MAI Jiaquan: Implement MySQL to record the result, such as table design and inserting operation of with Spark SQL
+- All members: Prepare to write the demo report.
   """
 
 +++
